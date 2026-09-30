@@ -23,7 +23,6 @@ This project focuses on analyzing student performance data and preparing the dat
 * Matplotlib
 * Seaborn
 * Scikit-learn
-* Google Colab
 
 ## Dataset
 
